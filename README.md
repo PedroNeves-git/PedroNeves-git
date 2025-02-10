@@ -47,9 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
